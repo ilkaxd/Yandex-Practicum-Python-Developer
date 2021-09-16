@@ -149,7 +149,7 @@
   <tr>
     <td><b>T</b></td>
     <td><a href="https://github.com/ilkaxd/Yandex-Practicum-Python-Developer/blob/main/4.%20Блок%20алгоритмов/3.%20Рекурсия%20и%20сортировки/tests.py" target="_blank"><b>Тесты</b></a></td>
-    <td>Тесты для всех задач блока на unittest.</td>
+    <td>Тесты для всех задач блока на unittest</td>
   </tr>
   </table>
   </body>
