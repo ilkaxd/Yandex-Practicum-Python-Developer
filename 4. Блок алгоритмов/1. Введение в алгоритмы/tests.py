@@ -19,7 +19,7 @@ from task_11 import main as task_11_main
 from task_12 import main as task_12_main
 
 
-class Sprint13TestCase(unittest.TestCase):
+class Sprint12TestCase(unittest.TestCase):
     def _assert_correct_output(
         self,
         subtest_name: str,
