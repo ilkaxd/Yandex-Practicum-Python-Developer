@@ -1,4 +1,3 @@
-# https://contest.yandex.ru/contest/24734/problems/
 <!DOCTYPE html>
 <html>
  <head>
