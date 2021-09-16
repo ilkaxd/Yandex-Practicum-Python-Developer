@@ -10,7 +10,7 @@
    <li><a href="XXX" target="_blank"><b>Социальная сеть Yatube</b></a></li>
    <li><a href="XXX" target="_blank"><b>Боты для социальных сетей</b></a></li>
    <li><a href="XXX" target="_blank"><b>API-сервер</b></a></li>
-   <li><a href="XXX" target="_blank"><b>Блок алгоритмов</b></a></li>
+   <li><a href="https://github.com/ilkaxd/Yandex-Practicum-Python-Developer/tree/main/4.%20Блок%20алгоритмов" target="_blank"><b>Блок алгоритмов</b></a></li>
    <li><a href="XXX" target="_blank"><b>Финальный проект</b></a></li>
   </ul>
  </body>
