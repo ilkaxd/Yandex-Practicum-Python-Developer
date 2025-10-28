@@ -8,7 +8,6 @@
     <a href="https://praktikum.yandex.ru/backend-developer/"
      target="_blank"
     >Яндекс.Практикум "Python-разработчик" (Django)</a></h1>
-  <b>Изученные блоки:</b><br/>
   <table>
       <caption>
         Реализованные проекты:
